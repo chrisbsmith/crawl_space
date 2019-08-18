@@ -1,0 +1,7 @@
+# config file
+MyDB     = "temperatures"
+username = "user"
+password = "password"
+OwmAPIKey = "yourapitoken"
+dbPort = "http://localhost:8086"
+debug = false
