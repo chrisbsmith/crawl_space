@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/chrissmith0828/chrissmith/_apis/build/status/chrisbsmith.crawl_space?branchName=master)](https://dev.azure.com/chrissmith0828/chrissmith/_build/latest?definitionId=1&branchName=master)
+
 # Crawl Space Temps
 
 I have a problem.  My wife and I collect wines from our trips abroad and bring them home to cellar.  Rather than buy a bigger wine cooler, I wanted to know if I could use my crawl space as a cellar.  
